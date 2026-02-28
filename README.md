@@ -1,5 +1,4 @@
-# NVIDA-STOCK-PREDICTION-RF-MODEL
-📈 NVIDIA Stock Gap Prediction Using Random Forest
+# 📈 NVIDIA Stock Gap Prediction Using Random Forest
 
 This project builds a machine learning classification model to predict whether the next trading day’s opening price of NVIDIA Corporation (NVDA) will be higher than the previous day’s closing price.
 
